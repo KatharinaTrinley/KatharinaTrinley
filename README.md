@@ -13,14 +13,14 @@ class Introduction:
         return (f"Hi, I'm {self._name}!\n"
                 f"I have a passion for {self._interests}.\n"
                 f"I am currently pursuing my Master's in {self._current_study} at {self._current_university}.\n"
-                f"In my free time, I am a painter who works with {self._hobby}.")
+                f"In my free time, {self._hobby}.")
 
 katharina = Introduction(
     name="Katharina Trinley",
     interests="NLP and Data Science",
     current_study="Computational Linguistics",
     current_university="Saarland University",
-    hobby="oil and acrylics"
+    hobby="I am a painter who works with oil and acrylics"
 )
 
 # Print the about me
