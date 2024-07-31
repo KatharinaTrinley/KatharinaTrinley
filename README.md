@@ -1,4 +1,4 @@
-## <img src="https://github.com/user-attachments/assets/8a76d772-33d8-4e3b-a83f-2b6afbffb440" width="50"/> About me
+## <img src="https://github.com/user-attachments/assets/3b4b07c2-0bc6-4cf2-9743-329b6a959014" width="50"/> About me
 
 ```python
 class Introduction:
@@ -28,7 +28,7 @@ print(katharina.about_me())
 
 ```
 
-## <img src="https://github.com/user-attachments/assets/8a76d772-33d8-4e3b-a83f-2b6afbffb440" width="50"/> What I do
+## <img src="https://github.com/user-attachments/assets/3b4b07c2-0bc6-4cf2-9743-329b6a959014" width="50"/> What I do
 
 - **NLP**
 - **Machine Learning**
@@ -89,7 +89,7 @@ Other Languages I am studying right now
 - **Russian**
 
 ---
-## <img src="https://github.com/user-attachments/assets/8a76d772-33d8-4e3b-a83f-2b6afbffb440" width="50"/> Get in touch
+## <img src="https://github.com/user-attachments/assets/3b4b07c2-0bc6-4cf2-9743-329b6a959014" width="50"/>Get in touch
 
 Feel free to reach out to me via:
 
