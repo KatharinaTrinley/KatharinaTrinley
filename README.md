@@ -49,6 +49,7 @@ print(katharina.about_me())
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatharinaTrinley&layout=compact&theme=swift" width="370"/>
 
 **<img src="https://github.com/user-attachments/assets/19c91d06-5e48-4be5-9cb6-bd019f551939" width="50"/> Tools**  
+
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-black?logo=huggingface&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?logo=visual-studio-code&logoColor=white&style=flat)
