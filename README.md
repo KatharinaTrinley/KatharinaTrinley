@@ -37,7 +37,7 @@ print(katharina.about_me())
 - **Data Science**
 ---
 
-**<img src="https://github.com/user-attachments/assets/bad64e37-2444-4edd-96bd-5f7a3bd4150f" width="50"/> Programming Languages** 
+**<img src="https://github.com/user-attachments/assets/bc9621f9-217a-4280-a9de-c5b563a5db99" width="50"/> Programming Languages** 
 
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white&style=flat)
 ![R](https://img.shields.io/badge/-R-black?logo=r&logoColor=white&style=flat)
@@ -48,7 +48,7 @@ print(katharina.about_me())
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatharinaTrinley&layout=compact&theme=swift" width="370"/>
 
-**<img src="https://github.com/user-attachments/assets/d38ad7fb-cf74-40c2-9fce-47383896e651" width="50"/> Tools**  
+**<img src="https://github.com/user-attachments/assets/19c91d06-5e48-4be5-9cb6-bd019f551939" width="50"/> Tools**  
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-black?logo=huggingface&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?logo=visual-studio-code&logoColor=white&style=flat)
@@ -58,7 +58,7 @@ print(katharina.about_me())
 ![Praat](https://img.shields.io/badge/-Praat-black?logo=praat&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-black?logo=figma&logoColor=white&style=flat)
 
-**<img src="https://github.com/user-attachments/assets/8ec270ca-e61c-4bbf-9433-1eb311db6777" width="50"/>Libraries & Frameworks**
+**<img src="https://github.com/user-attachments/assets/0d435a7b-0796-428c-938e-35db0857f7fb" width="50"/>Libraries & Frameworks**
 
 ![Transformers](https://img.shields.io/badge/-Transformers-black?logo=transformers&logoColor=white&style=flat)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch&logoColor=white&style=flat)
@@ -74,7 +74,7 @@ print(katharina.about_me())
 ---
 **Languages**
 
-<img src="https://github.com/user-attachments/assets/1293b18b-5200-4648-a2cf-f580d0662d8d" width="70"/> 
+<img src="https://github.com/user-attachments/assets/74cecac4-32d5-4cd0-828d-5cc1a5925157" width="70"/> 
 
 - **German** (Native)
 - **English** (Fluent)
@@ -100,4 +100,4 @@ Feel free to reach out to me via:
 
 That's it. Bye 👋
 
-![Cat falling](https://github.com/user-attachments/assets/fd66a837-d1c4-40ef-b5b1-2012363e65aa)
+![Cat falling](https://github.com/user-attachments/assets/ab2f5a91-4ba7-4de5-b6c0-c79854a29950)
