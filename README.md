@@ -93,8 +93,8 @@ Other Languages I am studying right now
 
 Feel free to reach out to me via:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/katharina-trinley-1189121a1/) LinkedIn  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat)](https://github.com/KatharinaTrinley) GitHub
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/katharina-trinley-1189121a1/)   
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat)](https://github.com/KatharinaTrinley) 
 
 ---
 
