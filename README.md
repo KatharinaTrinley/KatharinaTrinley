@@ -58,7 +58,7 @@ print(katharina.about_me())
 ![Praat](https://img.shields.io/badge/-Praat-black?logo=praat&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-black?logo=figma&logoColor=white&style=flat)
 
-**<img src="https://github.com/user-attachments/assets/0d435a7b-0796-428c-938e-35db0857f7fb" width="50"/>Libraries & Frameworks**
+**<img src="https://github.com/user-attachments/assets/0d435a7b-0796-428c-938e-35db0857f7fb" width="50"/> Libraries & Frameworks**
 
 ![Transformers](https://img.shields.io/badge/-Transformers-black?logo=transformers&logoColor=white&style=flat)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch&logoColor=white&style=flat)
