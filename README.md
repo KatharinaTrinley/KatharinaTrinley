@@ -1,7 +1,7 @@
 
 Hi! Welcome to my GitHub :)
 
-## <img src="https://github.com/user-attachments/assets/3b4b07c2-0bc6-4cf2-9743-329b6a959014" width="50"/> What I do
+## <img src="https://github.com/user-attachments/assets/3b4b07c2-0bc6-4cf2-9743-329b6a959014" width="50"/> What I am interested in
 
 - **NLP**
 - **Machine Learning**
